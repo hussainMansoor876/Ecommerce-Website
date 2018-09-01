@@ -1,0 +1,32 @@
+.form-group {
+    background-image: inherit;
+}
+
+* {
+    font-family: Courier New, Courier, monospace;
+}
+
+label {
+    font-size: 20px;
+}
+
+#posting {
+    display: none;
+}
+
+@media (max-width: 250px) {
+    h1,
+    h3 {
+        font-size: 20px;
+    }
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url('../hd/back.jpg');
+    /* background-size: cover; */
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    transition: 1s;
+    opacity: 0.9;
+}
