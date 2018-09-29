@@ -10,7 +10,7 @@ body {
 
 .card-container {
     width: 100%;
-    height: auto;
+    height: 500px;;
     /* border: 2px solid red; */
     margin: 5% auto;
     text-align: center;

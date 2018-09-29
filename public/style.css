@@ -92,7 +92,7 @@ ul li:hover {
     color: white;
     text-shadow: 2px 2px 4px black; */
 
-}
+/* } */
 
 .card-container {
     width: 100%;
@@ -151,13 +151,13 @@ ul li:hover {
         margin : 0px 20px 0px 10px;;
     }
 }
-body{
+/* body{
     padding: 0;
     margin: 0;
-    background-image: url('hd/back.jpg');
+    background-image: url('hd/back.jpg'); */
     /* background-size: cover; */
-    background-size: 100% 100%;
+    /* background-size: 100% 100%;
     background-repeat: no-repeat;
     transition: 1s;
     opacity: 0.9;
-}
+} */
